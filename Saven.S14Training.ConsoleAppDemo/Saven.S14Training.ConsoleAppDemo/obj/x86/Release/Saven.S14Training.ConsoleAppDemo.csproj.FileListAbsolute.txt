@@ -1,0 +1,6 @@
+D:\S14Training\Demos\Saven.S14Training.ConsoleAppDemo\Saven.S14Training.ConsoleAppDemo\bin\Release\Saven.S14Training.ConsoleAppDemo.exe.config
+D:\S14Training\Demos\Saven.S14Training.ConsoleAppDemo\Saven.S14Training.ConsoleAppDemo\bin\Release\Saven.S14Training.ConsoleAppDemo.exe
+D:\S14Training\Demos\Saven.S14Training.ConsoleAppDemo\Saven.S14Training.ConsoleAppDemo\bin\Release\Saven.S14Training.ConsoleAppDemo.pdb
+D:\S14Training\Demos\Saven.S14Training.ConsoleAppDemo\Saven.S14Training.ConsoleAppDemo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\S14Training\Demos\Saven.S14Training.ConsoleAppDemo\Saven.S14Training.ConsoleAppDemo\obj\x86\Release\Saven.S14Training.ConsoleAppDemo.exe
+D:\S14Training\Demos\Saven.S14Training.ConsoleAppDemo\Saven.S14Training.ConsoleAppDemo\obj\x86\Release\Saven.S14Training.ConsoleAppDemo.pdb
